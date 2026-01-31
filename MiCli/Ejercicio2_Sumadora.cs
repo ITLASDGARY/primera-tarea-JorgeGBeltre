@@ -5,17 +5,19 @@ public class Ejercicio2_Sumadora
 {
     public static int Sumar(int a, int b)
     {
-        // TODO: Implementa la suma de a y b
-        return 0; //OJO: reemplaza este texto con el resultado de la suma
+        int resultado = a + b;
+        return a+b; //OJO: reemplaza este texto con el resultado de la suma
         throw new NotImplementedException();
     }
     
     public static string ObtenerResultado()
     {
-        // TODO: Declara dos variables int con valores fijos
-        // TODO: Implementa la suma de a y b, y guarda el resultado
-        // TODO: Retorna el texto "La suma es: X" donde X es el resultado
-        return "reemplaza este texto con el resultado de la suma"; //OJO: reemplaza este texto
+        int a = 8;
+        int b = 10;
+
+        int resultado = Sumar (a, b);
+
+        return $"La suma es: {resultado}"; //OJO: reemplaza este texto
         throw new NotImplementedException();
     }
     

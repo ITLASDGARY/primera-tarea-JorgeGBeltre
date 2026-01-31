@@ -5,9 +5,12 @@ public class Ejercicio1_Presentacion
 {
     public static string ObtenerPresentacion()
     {
-        // TODO: Declara tres variables string: nombre, carrera y hobby
-        // TODO: Retorna un string con las tres variables en líneas separadas
-        return "reemplaza este texto con tu presentación"; //OJO: reemplaza este texto
+        
+        string nombre ="Jorge";
+        string Carrera ="computer";
+        string Hobby ="basket";
+
+        return $"{nombre}\n{Carrera}\n{Hobby}";
         throw new NotImplementedException();
     }
     

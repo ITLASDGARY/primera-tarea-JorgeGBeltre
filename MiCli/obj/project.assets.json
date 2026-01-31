@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/codespaces-blank/MiCli/MiCli.csproj",
+      "projectUniqueName": "/workspaces/primera-tarea-JorgeGBeltre/MiCli/MiCli.csproj",
       "projectName": "MiCli",
-      "projectPath": "/workspaces/codespaces-blank/MiCli/MiCli.csproj",
+      "projectPath": "/workspaces/primera-tarea-JorgeGBeltre/MiCli/MiCli.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/codespaces-blank/MiCli/obj/",
+      "outputPath": "/workspaces/primera-tarea-JorgeGBeltre/MiCli/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"

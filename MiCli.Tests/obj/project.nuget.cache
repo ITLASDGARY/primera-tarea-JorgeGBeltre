@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "msNP3ilFWmI=",
+  "dgSpecHash": "Rde6WALxWMg=",
   "success": true,
-  "projectFilePath": "/workspaces/codespaces-blank/MiCli/MiCli.Tests/MiCli.Tests.csproj",
+  "projectFilePath": "/workspaces/primera-tarea-JorgeGBeltre/MiCli.Tests/MiCli.Tests.csproj",
   "expectedPackageFiles": [
     "/home/codespace/.nuget/packages/microsoft.codecoverage/17.12.0/microsoft.codecoverage.17.12.0.nupkg.sha512",
     "/home/codespace/.nuget/packages/microsoft.net.test.sdk/17.12.0/microsoft.net.test.sdk.17.12.0.nupkg.sha512",

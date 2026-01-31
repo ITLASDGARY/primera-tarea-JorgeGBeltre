@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiCli")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+431a03a2a620a6e1cf6e22f80de9594ff6a6f8d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiCli")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiCli")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

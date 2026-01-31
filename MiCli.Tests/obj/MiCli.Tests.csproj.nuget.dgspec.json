@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/codespaces-blank/MiCli/MiCli.Tests/MiCli.Tests.csproj": {}
+    "/workspaces/primera-tarea-JorgeGBeltre/MiCli.Tests/MiCli.Tests.csproj": {}
   },
   "projects": {
-    "/workspaces/codespaces-blank/MiCli/MiCli.Tests/MiCli.Tests.csproj": {
+    "/workspaces/primera-tarea-JorgeGBeltre/MiCli.Tests/MiCli.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/codespaces-blank/MiCli/MiCli.Tests/MiCli.Tests.csproj",
+        "projectUniqueName": "/workspaces/primera-tarea-JorgeGBeltre/MiCli.Tests/MiCli.Tests.csproj",
         "projectName": "MiCli.Tests",
-        "projectPath": "/workspaces/codespaces-blank/MiCli/MiCli.Tests/MiCli.Tests.csproj",
+        "projectPath": "/workspaces/primera-tarea-JorgeGBeltre/MiCli.Tests/MiCli.Tests.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/codespaces-blank/MiCli/MiCli.Tests/obj/",
+        "outputPath": "/workspaces/primera-tarea-JorgeGBeltre/MiCli.Tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "/workspaces/codespaces-blank/MiCli/MiCli/MiCli.csproj": {
-                "projectPath": "/workspaces/codespaces-blank/MiCli/MiCli/MiCli.csproj"
+              "/workspaces/primera-tarea-JorgeGBeltre/MiCli/MiCli.csproj": {
+                "projectPath": "/workspaces/primera-tarea-JorgeGBeltre/MiCli/MiCli.csproj"
               }
             }
           }
@@ -357,14 +357,14 @@
         }
       }
     },
-    "/workspaces/codespaces-blank/MiCli/MiCli/MiCli.csproj": {
+    "/workspaces/primera-tarea-JorgeGBeltre/MiCli/MiCli.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/codespaces-blank/MiCli/MiCli/MiCli.csproj",
+        "projectUniqueName": "/workspaces/primera-tarea-JorgeGBeltre/MiCli/MiCli.csproj",
         "projectName": "MiCli",
-        "projectPath": "/workspaces/codespaces-blank/MiCli/MiCli/MiCli.csproj",
+        "projectPath": "/workspaces/primera-tarea-JorgeGBeltre/MiCli/MiCli.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/codespaces-blank/MiCli/MiCli/obj/",
+        "outputPath": "/workspaces/primera-tarea-JorgeGBeltre/MiCli/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"
